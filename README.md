@@ -10,7 +10,7 @@ Specializing in React, Next.js, TypeScript, and building scalable web applicatio
 ### 🚀 Tech Stack
 
 - **Frontend:** React, Next.js, TypeScript, Redux, TanStack Query
-- **Backend (Basic):** Node.js, Express.js, SQL
+- **Backend:** Node.js, Express.js, SQL
 - **Testing:** Jest, Vitest, Playwright  
 - **Tooling:** ESLint, Prettier
 
