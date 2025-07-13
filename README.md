@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Nikita Dontsov 👋
 
-<!--
-**sleonia/sleonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Frontend Engineer**  
+Specializing in React, Next.js, TypeScript, and building scalable web applications.
 
-Here are some ideas to get you started:
+- 🛠️ Focused on frontend-heavy development with backend integration  
+- ⚙️ Experienced in B2B/B2C SaaS platforms, real-time analytics, and developer tooling  
+- 🎯 Passionate about performance optimization, modular architecture, and team enablement  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+- **Frontend:** React, Next.js, TypeScript, Redux, Zustand, AG Grid  
+- **Backend (Basic):** Node.js, Express.js, SQL  
+- **Testing:** Jest, Cypress, Playwright  
+- **Tooling:** GitHub Actions, ESLint, Prettier, Husky  
+
+### 📫 How to reach me
+
+💼 [LinkedIn](https://www.linkedin.com/in/nikita-dontsov)  
+📧 [Email](mailto:nikita.dontsov.developer@gmail.com)
+
+---
+
+> Building reliable, scalable, and maintainable systems — one commit at a time.
