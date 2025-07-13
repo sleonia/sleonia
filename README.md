@@ -10,9 +10,9 @@ Specializing in React, Next.js, TypeScript, and building scalable web applicatio
 ### 🚀 Tech Stack
 
 - **Frontend:** React, Next.js, TypeScript, Redux, TanStack Query
-- **Backend (Basic):** Node.js, Express.js, SQL  
-- **Testing:** Jest, Cypress, Playwright  
-- **Tooling:** GitHub Actions, ESLint, Prettier, Husky  
+- **Backend (Basic):** Node.js, Express.js, SQL
+- **Testing:** Jest, Vitest, Playwright  
+- **Tooling:** ESLint, Prettier
 
 ### 📫 How to reach me
 
